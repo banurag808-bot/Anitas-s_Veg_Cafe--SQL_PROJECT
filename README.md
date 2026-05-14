@@ -1,0 +1,1 @@
+Performed SQL analysis on 200+ sales and customer records for Anita’s Veg Cafe, uncovering key revenue trends and customer behavior. Built 10+ optimized queries to assess product performance, driving data-backed decisions that improved operations and contributed to ~15% profitability growth.
